@@ -69,4 +69,4 @@ To give you the full context, here is how "Aham Brahmasmi" fits with the other t
 
 ---
 
-[**Next... Parent's Requirements**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/1%20-%20Introduction/1-1-Parents-requirements.md)
+[**Next... Parent's Requirements**](https://github.com/RameshBalasubramanian/Veda/blob/main/Upanishads.md)
