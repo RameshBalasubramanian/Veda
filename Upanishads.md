@@ -61,4 +61,4 @@ Beyond these 11, there are 97 others that are categorized based on their specifi
 
 ---
 
-[**Next... Yejur Veda**](https://github.com/RameshBalasubramanian/Veda/blob/main/RigVeda/Rig.md))
+[**Next... Yejur Veda**](https://github.com/RameshBalasubramanian/Veda/blob/main/YejurVeda/Yejur.md))
