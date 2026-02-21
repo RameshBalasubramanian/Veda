@@ -1,6 +1,6 @@
 # Basics of VEDA
 
-## Executive Summary
+## Summary
 Unlike most religious texts, the Vedas do not have a single "author." In the Hindu tradition, they are considered Apaurusheya, meaning "not of human origin." They are believed to be eternal truths "heard" by ancient seers (Rishis) in deep states of meditation.
 Historically, the Vedas were composed and transmitted orally for centuries before being committed to writing. The sage Vyasa is traditionally credited not with writing them, but with compiling and organizing the vast body of inherited knowledge into the four distinct Vedas we know today.
 
