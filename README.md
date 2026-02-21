@@ -37,5 +37,36 @@ Each Veda is generally divided into four layers: The layers reflect the stages o
 4. **Upanishads:** Used by seekers and monks (Sannyasi) to reach the ultimate truth.
 
 
+
+![VEDA_MindMap](images/VEDA_mindmap.png)
+
+---
+
+| Veda | Samhita (Hymns) | Brahmana (Rituals) | Aranyaka (Meditation) | Upanishad (Philosophy) |
+|------|------------------|--------------------|-----------------------|------------------------|
+| Rig Veda | Yes | Yes | Yes | Yes |
+| Sama Veda | Yes | Yes | Yes | Yes |
+| Yajur Veda | Yes | Yes | Yes | Yes |
+| Atharva Veda | Yes | Yes | None Extant | Yes |
+
+---
+
 ## Summary of the 4 Mahavakyas for each Veda
 To give you the full context, here is how "Aham Brahmasmi" fits with the other three Great Sayings from the other Vedas:
+
+| Veda | Mahavakya (Sanskrit) | English Translation | Meaning |
+|------|-----------------------|--------------------|---------|
+| Rig Veda | Prajnanam Brahma | "Consciousness is Brahman" | Defines the nature of God. |
+| Sama Veda | Tat Tvam Asi | "That Thou Art" | The teacher tells the student: "You are that." |
+| Yajur Veda | Aham Brahmasmi | "I am Brahman" | The student realizes: "I am that." |
+| Atharva Veda | Ayam Atma Brahma | "This Self is Brahman" | The final internal conclusion. |
+
+
+
+---
+
+*If you’ve learned something so far and would like to continue, click Next to move on to the next topic.*
+
+---
+
+[**Next... Parent's Requirements**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/1%20-%20Introduction/1-1-Parents-requirements.md)
