@@ -53,3 +53,12 @@ Beyond these 11, there are 97 others that are categorized based on their specifi
 * **Sannyasa Upanishads:** Focus on monkhood and renunciation.
 * **Yoga Upanishads:** Focus on Hatha Yoga, Kundalini, and meditation techniques.
 * **Devotional Upanishads:** Dedicated to specific deities like Vishnu, Shiva, or Devi.
+
+
+---
+
+*If you’ve learned something so far and would like to continue, click Next to move on to the next topic.*
+
+---
+
+[**Next... Yejur Veda**](https://github.com/RameshBalasubramanian/Veda/blob/main/RigVeda/Rig.md))
