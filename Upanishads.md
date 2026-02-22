@@ -62,3 +62,15 @@ Beyond these 11, there are 97 others that are categorized based on their specifi
 ---
 
 [**Next... Yejur Veda**](https://github.com/RameshBalasubramanian/Veda/blob/main/YejurVeda/Yejur.md))
+
+---
+
+*Want to clarify some common questions?*
+
+---
+
+| FAQ                                           | Link                                                                                                         |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Does Vedas specify how to celebrate Hindu festivals? | [Link](https://github.com/RameshBalasubramanian/Veda/blob/main/Misc/DoesVedasSpecifyHowToCelebrateHinduFestivals.md) |
+| Why Vedas are not Hindu Holy Scripture?       | [Link](https://github.com/RameshBalasubramanian/Veda/blob/main/Misc/WhyVedasAreNotHinduHolyScripture.md)    |
+
