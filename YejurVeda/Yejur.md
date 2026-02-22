@@ -84,3 +84,17 @@ This is a famous chant found in the **Taittiriya Aranyaka** of the Krishna Yajur
 | Purusha Suktam| Rig / Yajur Veda    | The unity of the Cosmic Being and Creation.                 |
 | Mantra Pushpam| Krishna Yajur Veda  | Meditation on the elements (Water) and the Self.           |
 
+
+
+---
+
+*Want to clarify some common questions?*
+
+---
+
+| FAQ                                           | Link                                                                                                         |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Does Vedas specify how to celebrate Hindu festivals? | [Link](https://github.com/RameshBalasubramanian/Veda/blob/main/Misc/DoesVedasSpecifyHowToCelebrateHinduFestivals.md) |
+| Why Vedas are not Hindu Holy Scripture?       | [Link](https://github.com/RameshBalasubramanian/Veda/blob/main/Misc/WhyVedasAreNotHinduHolyScripture.md)    |
+
+
