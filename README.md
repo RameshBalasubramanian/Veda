@@ -61,8 +61,6 @@ To give you the full context, here is how "Aham Brahmasmi" fits with the other t
 | Yajur Veda | Aham Brahmasmi | "I am Brahman" | The student realizes: "I am that." |
 | Atharva Veda | Ayam Atma Brahma | "This Self is Brahman" | The final internal conclusion. |
 
-
-
 ---
 
 *If you’ve learned something so far and would like to continue, click Next to move on to the next topic.*
@@ -70,3 +68,15 @@ To give you the full context, here is how "Aham Brahmasmi" fits with the other t
 ---
 
 [**Next... Upanishads**](https://github.com/RameshBalasubramanian/Veda/blob/main/Upanishads.md)
+
+---
+
+*Want to clarify some common questions?*
+
+---
+
+| FAQ                                           | Link                                                                                                         |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Does Vedas specify how to celebrate Hindu festivals? | [Link](https://github.com/RameshBalasubramanian/Veda/blob/main/Misc/DoesVedasSpecifyHowToCelebrateHinduFestivals.md) |
+| Why Vedas are not Hindu Holy Scripture?       | [Link](https://github.com/RameshBalasubramanian/Veda/blob/main/Misc/WhyVedasAreNotHinduHolyScripture.md)    |
+
