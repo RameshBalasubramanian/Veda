@@ -71,11 +71,7 @@ Shri Rudram is one of the most sacred and ancient hymns dedicated to Lord Shiva 
 Found in the Rig Veda but extensively used in the **Yajur Veda** rituals, this is the "Hymn of the Cosmic Man." It describes the **Purusha** (Universal Being) who has a thousand heads, eyes, and feet.
 * **Meaning:** It explains how the entire manifest world came from the "sacrifice" of this original Cosmic Being. It emphasizes the organic unity of society and the cosmos.
 
-## 3. Sri Suktam (Sree Suddam)
-This is a beautiful hymn dedicated to Goddess Lakshmi, the power of abundance, beauty, and prosperity.
-* **Meaning:** It is not just about material wealth; it prays for "Sri"—the divine grace that brings inner and outer auspiciousness. It uses imagery of lotus flowers, gold, and light to represent a life filled with spiritual and material richness.
-
-## 4. Mantra Pushpam
+## 3. Mantra Pushpam
 This is a famous chant found in the **Taittiriya Aranyaka** of the Krishna Yajur Veda. It is usually chanted at the end of a ritual or puja when flowers are offered to the deity.
 * **Meaning:** It is a deeply philosophical poem about the secret relationship between **Water** and the universe. It explains that "He who knows the source of Water, becomes established in the Self." Water here is a metaphor for the primordial energy (Prana) that flows through everything.
 
@@ -86,6 +82,5 @@ This is a famous chant found in the **Taittiriya Aranyaka** of the Krishna Yajur
 | Namakam       | Krishna Yajur Veda  | Salutations and total surrender to the Divine.              |
 | Chamakam      | Krishna Yajur Veda  | Prayers for worldly and spiritual blessings.                |
 | Purusha Suktam| Rig / Yajur Veda    | The unity of the Cosmic Being and Creation.                 |
-| Sri Suktam    | Rig Veda (Khila)    | Seeking Grace, Wealth, and Auspiciousness.                 |
 | Mantra Pushpam| Krishna Yajur Veda  | Meditation on the elements (Water) and the Self.           |
 
