@@ -54,6 +54,6 @@ The "Hindu Festival" has shifted from a **private, priestly ritual** to a **publ
 
 ---
 
-> **Executive Summary:** The Vedas provided the **soul** (the timing and the spiritual purpose), but the Puranas and the people provided the **body** (the stories, the colors, and the rituals) of modern Hindu festivals.
+> **Summary:** The Vedas provided the **soul** (the timing and the spiritual purpose), but the Puranas and the people provided the **body** (the stories, the colors, and the rituals) of modern Hindu festivals.
 
 
